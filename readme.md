@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,45:1e3a8a,100:0ea5e9&height=200&section=header&text=ZZh2333&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E4%B8%AD%E4%BC%A0%E5%B0%8F%E6%B6%B5&descAlignY=60&descSize=18" alt="ZZh2333 banner" />
+<img width="100%" src="./assets/banner.svg" alt="ZZh2333 · 中传小涵" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1300&color=0EA5E9&center=true&vCenter=true&width=620&lines=AI+music+generation+%2B+deep+learning;Building+plugins+for+DeepSeek+Harness;Data+to+models+to+tools+that+actually+run" alt="typing" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub-since%202019-0ea5e9?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/%E6%96%B9%E5%90%91-AIGC%20%2F%20%E9%9F%B3%E4%B9%90%E7%94%9F%E6%88%90-1e3a8a?style=flat-square" />
-  <img src="https://img.shields.io/badge/%E7%8E%B0%E5%9C%A8-DSH%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91-0ea5e9?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=ZZh2333&label=views&color=0ea5e9&style=flat-square" />
+  <img src="https://img.shields.io/badge/%E4%B8%AD%E4%BC%A0-CUC-1e3a8a?style=flat&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E6%96%B9%E5%90%91-AIGC%20%2F%20%E9%9F%B3%E4%B9%90%E7%94%9F%E6%88%90-0ea5e9?style=flat" />
+  <img src="https://img.shields.io/badge/%E7%8E%B0%E5%9C%A8-DSH%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91-0e7490?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ZZh2333&label=views&color=0ea5e9&style=flat" />
 </p>
 
 </div>
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,55:1e3a8a,100:0f2027&height=120&section=footer" alt="footer" />
+<img width="100%" src="./assets/footer.svg" alt="footer" />
 
 <sub>如果这里有让你觉得有意思的东西，欢迎开个 issue 聊聊 ☕</sub>
 

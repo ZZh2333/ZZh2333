@@ -1,0 +1,11 @@
+<svg width="856" height="90" viewBox="0 0 856 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="55%" stop-color="#1D4ED8"/>
+      <stop offset="100%" stop-color="#0B1220"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,40 C140,16 300,62 428,44 C556,26 700,62 856,34 L856,90 L0,90 Z" fill="url(#fbg)"/>
+  <path d="M0,62 C160,44 320,82 470,66 C620,50 740,80 856,62 L856,66 C740,84 620,54 470,70 C320,86 160,50 0,68 Z" fill="#06B6D4" opacity="0.35"/>
+</svg>

@@ -1,0 +1,46 @@
+<svg width="856" height="210" viewBox="0 0 856 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ZZh2333 banner">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="45%" stop-color="#1D4ED8"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="18%" cy="18%" r="60%">
+      <stop offset="0%" stop-color="#7DD3FC" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7DD3FC" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, "PingFang SC", "Microsoft YaHei", sans-serif; font-size: 58px; font-weight: 700; fill: #ffffff; letter-spacing: 2px; }
+      .desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, "PingFang SC", "Microsoft YaHei", sans-serif; font-size: 17px; font-weight: 400; fill: #E0F2FE; letter-spacing: 1px; }
+      .tag  { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, "PingFang SC", "Microsoft YaHei", sans-serif; font-size: 13px; fill: #BAE6FD; letter-spacing: 3px; }
+    </style>
+  </defs>
+
+  <rect width="856" height="210" rx="0" fill="url(#bg)"/>
+  <rect width="856" height="210" fill="url(#glow)"/>
+
+  <g fill="#E0F2FE" opacity="0.10">
+    <circle cx="96" cy="42" r="3"/>
+    <circle cx="150" cy="72" r="2"/>
+    <circle cx="214" cy="34" r="2.5"/>
+    <circle cx="742" cy="52" r="3"/>
+    <circle cx="792" cy="96" r="2"/>
+    <circle cx="672" cy="118" r="2"/>
+    <circle cx="58" cy="120" r="2"/>
+  </g>
+
+  <text class="tag" x="428" y="66" text-anchor="middle">GITHUB PROFILE</text>
+  <text class="title" x="428" y="122" text-anchor="middle">ZZh2333</text>
+  <text class="desc" x="428" y="156" text-anchor="middle">中传小涵 · AI 音乐生成 · 智能体工具</text>
+
+  <path d="M0,184 C150,166 300,200 428,186 C556,172 700,200 856,180 L856,210 L0,210 Z" fill="#0B1220" opacity="0.18"/>
+  <path d="M0,194 C120,182 290,206 428,194 C580,182 720,208 856,192 L856,210 L0,210 Z" fill="url(#wave1)"/>
+</svg>
