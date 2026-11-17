@@ -66,7 +66,7 @@
 | [NeuralNetworkAndDeepLearning](https://github.com/ZZh2333/NeuralNetworkAndDeepLearning) · [ubuntuProjectFiles](https://github.com/ZZh2333/ubuntuProjectFiles) | 神经网络与深度学习课程源码 |
 | [ActionRoguelike](https://github.com/ZZh2333/ActionRoguelike) · [Unreal4-26-2](https://github.com/ZZh2333/Unreal4-26-2) | Unreal Engine 4 的 3D roguelike 与学习项目 |
 | [myBlog](https://github.com/ZZh2333/myBlog) · [picgoResource](https://github.com/ZZh2333/picgoResource) | 博客与图床 |
-| [ReactLearning](https://github.com/ZZh2333/ReactLearning) · [GiveMeOfferPLZ](https://github.com/ZZh2333/GiveMeOfferPLZ) | 学习与找工作的记录 |
+| [ReactLearning](https://github.com/ZZh2333/ReactLearning) | 学习记录 |
 
 <br>
 
